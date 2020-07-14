@@ -8,13 +8,13 @@
 
 ### 说明：
 1. 下载途径
-  1. Github的种子文件夹。[前往](seeds/)
-  1. 灵山一会主站。[前往](https://www.503.im)
+   1. Github的种子文件夹。[前往](seeds/)
+   1. 灵山一会主站。[前往](https://www.503.im)
 1. 下载工具
-  - free download manager https://www.freedownloadmanager.org （推荐！下载速度快，跨平台，无广告）
-  - qbittorrent https://www.qbittorrent.org （推荐！跨平台，无广告，可制作种子）
-  - bitcomet https://www.bitcomet.com
-  - utorrent https://www.utorrent.com
+   - free download manager https://www.freedownloadmanager.org （推荐！下载速度快，跨平台，无广告）
+   - qbittorrent https://www.qbittorrent.org （推荐！跨平台，无广告，可制作种子）
+   - bitcomet https://www.bitcomet.com
+   - utorrent https://www.utorrent.com
   
 ## 往期资料
 往期资料正在陆续整理中，敬请关注目前正在整理的内容，前往：[法宝整理工作目录](backlog.md)
