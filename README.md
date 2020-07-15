@@ -3,7 +3,7 @@
 ## 项目名称：索达吉堪布法宝资料汇集
 
 种子打包下载：
-- 更新日期2020.7.15 [seeds.zip](seeds/seeds.zip)
+- 更新日期2020.7.15 [seeds.zip](seeds/seeds.zip) 附：内容清单：[本地](seeds_list_20200715.txt) | [云端](seeds_aws_list_20200715.txt)
 
 ## 缘起
 
