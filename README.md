@@ -2,8 +2,9 @@
 
 ## 索达吉堪布法宝资料汇集
 
-种子打包下载：
-- 更新日期2020.7.15 [seeds.zip](seeds/seeds.zip) 附：内容清单：[本地](seeds_list_20200715.txt) | [云端](seeds_aws_list_20200715.txt)
+种子打包下载：  https://github.com/myid503/khenposodargye/releases
+
+磁力链下载：   https://github.com/myid503/khenposodargye/blob/master/magnet.md
 
 ## 官网
 - 灵山一会 https://www.503.im
