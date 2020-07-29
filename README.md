@@ -2,7 +2,7 @@
 
 ## 索达吉堪布法宝资料汇集
 
-- 种子打包下载：  https://github.com/myid503/khenposodargye/releases
+- 种子打包下载：  https://github.com/myid503/khenposodargye/releases/latest
 
 - 磁力链下载：   https://github.com/myid503/khenposodargye/blob/master/magnet.md
 
