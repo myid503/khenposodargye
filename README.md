@@ -2,12 +2,17 @@
 
 ## 索达吉堪布法宝资料汇集
 
-种子打包下载：  https://github.com/myid503/khenposodargye/releases
+- 种子打包下载：  https://github.com/myid503/khenposodargye/releases
 
-磁力链下载：   https://github.com/myid503/khenposodargye/blob/master/magnet.md
+- 磁力链下载：   https://github.com/myid503/khenposodargye/blob/master/magnet.md
 
-## 官网
+- BT tracker服务器
+  - udp://tracker.503.im:8000/announce
+  - http://tracker.503.im:8000/announce
+
+## 网址
 - 灵山一会 https://www.503.im
+
 
 ## 缘起
 
