@@ -5,8 +5,6 @@
 ## 种子
 - 种子打包下载：  https://github.com/myid503/khenposodargye/releases/latest
 
-- 磁力链下载：   https://github.com/myid503/khenposodargye/blob/master/magnet.md
-
 - BT tracker服务器
   - udp://tracker.503.im:8000/announce
   - http://tracker.503.im:8000/announce
