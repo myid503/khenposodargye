@@ -9,7 +9,7 @@
   - udp://tracker.503.im:8000/announce
   - http://tracker.503.im:8000/announce
   
-- Web辅助加速地址：http://archive.503.im/
+- Web辅助加速地址：http://archive.503.im/ 及 http://arch.503.im/
 
 ## 网站
 - 灵山一会 资料汇集 https://www.503.im
